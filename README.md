@@ -1,0 +1,2 @@
+# Assignment1_ShinyeongPark
+introbioinfo-2023-1/assingment1_ShinyeongPark
